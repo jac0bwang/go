@@ -18,3 +18,4 @@ go version go1.10.4 linux/amd64
 3. [库源码文件](03-libsrc.md)
 4. [程序实体的那些事儿（上）](04-程序实体的那些事儿（上）.md)
 5. [程序实体的那些事儿（中）](05-Program_entity-2.md)
+6. [程序实体的那些事儿（下）](06-Program_entity-3.md)
