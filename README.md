@@ -19,3 +19,4 @@ go version go1.10.4 linux/amd64
 4. [程序实体的那些事儿（上）](04-程序实体的那些事儿（上）.md)
 5. [程序实体的那些事儿（中）](05-Program_entity-2.md)
 6. [程序实体的那些事儿（下）](06-Program_entity-3.md)
+7. [数组和切片](07-array_slice.md)
