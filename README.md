@@ -26,3 +26,4 @@ go version go1.10.4 linux/amd64
 11. [通道的高级玩法](11-channel-2.md)
 12. [使用函数的正确姿势](12-func.md)
 13. [结构体及其方法的使用法门](13-struct.md)
+14. [接口类型的合理运用](14-interface.md)
