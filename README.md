@@ -23,3 +23,4 @@ go version go1.10.4 linux/amd64
 8. [container包中的那些容器](08-container.md)
 9. [字典的操作和约束](09-map.md)
 10. [通道的基本操作](10-channel-1.md)
+11. [通道的高级玩法](11-channel-2.md)
