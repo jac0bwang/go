@@ -22,3 +22,4 @@ go version go1.10.4 linux/amd64
 7. [数组和切片](07-array_slice.md)
 8. [container包中的那些容器](08-container.md)
 9. [字典的操作和约束](09-map.md)
+10. [通道的基本操作](10-channel-1.md)
