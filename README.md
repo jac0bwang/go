@@ -34,3 +34,4 @@ go version go1.10.4 linux/amd64
 19. [错误处理（上）](19-error-1.md)
 20. [错误处理（下）](20-error-2.md)
 21. [panic函数、recover函数以及defer语句 （上）](21-panic_recover_defer.md)
+22. [panic函数、recover函数以及defer语句 （下）](22-panic_recover_defer-2.md)
