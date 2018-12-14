@@ -31,3 +31,4 @@ go version go1.10.4 linux/amd64
 16. [go语句及其执行规则（上）](16-goroutine-1.md)
 17. [go语句及其执行规则（下）](17-goroutine-2.md)
 18. [if语句、for语句和switch语句](18-if_for_switch.md)
+19. [错误处理（上）](19-error-1.md)
