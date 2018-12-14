@@ -27,3 +27,4 @@ go version go1.10.4 linux/amd64
 12. [使用函数的正确姿势](12-func.md)
 13. [结构体及其方法的使用法门](13-struct.md)
 14. [接口类型的合理运用](14-interface.md)
+15. [关于指针的有限操作](15-point.md)
