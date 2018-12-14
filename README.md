@@ -33,3 +33,4 @@ go version go1.10.4 linux/amd64
 18. [if语句、for语句和switch语句](18-if_for_switch.md)
 19. [错误处理（上）](19-error-1.md)
 20. [错误处理（下）](20-error-2.md)
+21. [panic函数、recover函数以及defer语句 （上）](21-panic_recover_defer.md)
