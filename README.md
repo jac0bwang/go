@@ -29,3 +29,4 @@ go version go1.10.4 linux/amd64
 14. [接口类型的合理运用](14-interface.md)
 15. [关于指针的有限操作](15-point.md)
 16. [go语句及其执行规则（上）](16-goroutine-1.md)
+17. [go语句及其执行规则（下）](17-goroutine-2.md)
