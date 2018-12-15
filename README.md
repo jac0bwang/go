@@ -37,3 +37,4 @@ go version go1.10.4 linux/amd64
 22. [panic函数、recover函数以及defer语句 （下）](22-panic_recover_defer-2.md)
 23. [测试的基本规则和流程 （上）](23-test-1.md)
 24. [测试的基本规则和流程 （下）](24-test-2.md)
+25. [更多的测试手法](25-more-test.md)
