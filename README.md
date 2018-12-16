@@ -41,3 +41,4 @@ go version go1.10.4 linux/amd64
 26. [sync.Mutex与sync.RWMutex](26-sync.Mutex.md)
 27. [条件变量sync.Cond](27-sync.Cond.md)
 28. [原子操作](28-atomic.md)
+29. [sync.WaitGroup和sync.Once](29-sync.WaitGroup-Once.md)
