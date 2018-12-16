@@ -39,3 +39,4 @@ go version go1.10.4 linux/amd64
 24. [测试的基本规则和流程 （下）](24-test-2.md)
 25. [更多的测试手法](25-more-test.md)
 26. [sync.Mutex与sync.RWMutex](26-sync.Mutex.md)
+27. [条件变量sync.Cond](27-sync.Cond.md)
