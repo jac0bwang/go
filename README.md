@@ -47,3 +47,4 @@ go version go1.10.4 linux/amd64
 32. [并发安全字典sync.Map](32-sync.Map.md)
 33. [unicode与字符编码](33-unicode.md)
 34. [strings包与字符串操作](34-strings.md)
+35. [bytes包与字节串操作](35-bytes.md)
